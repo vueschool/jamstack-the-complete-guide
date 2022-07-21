@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.6"
+  },
+  "dependencies": {
+    "@storyblok/nuxt": "^4.0.1"
   }
 }
