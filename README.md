@@ -1,6 +1,6 @@
 # JAMstack - the Complete Guide
 
-![Course Image](https://vueschool.io/media/a720e0a048b61c085b010b993989c70d/jamstack-the-complete-guide-non-transparent.jpg)
+[![Course Image](https://vueschool.io/media/a720e0a048b61c085b010b993989c70d/jamstack-the-complete-guide-non-transparent.jpg)](https://vueschool.io/courses/jamstack-the-complete-guide)
 
 This repository contains the source code for the course: [JAMstack- The Complete Guide](https://vueschool.io/courses/jamstack-the-complete-guide).
 
