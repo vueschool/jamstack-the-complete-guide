@@ -14,6 +14,9 @@ defineProps({
           <img
             :src="project.content.image?.filename"
             :alt="project.content.image?.alt"
+            style="object-fit: cover; width: 100%; height: auto"
+            width="400px"
+            height="300px"
           />
           <h3>{{ project.content.name }}</h3>
         </NuxtLink>
