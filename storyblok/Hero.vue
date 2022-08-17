@@ -10,7 +10,7 @@ defineProps({
         <img
           :src="blok.image.filename"
           :alt="blok.image.alt"
-          style="max-width: 100%; height: auto"
+          style="max-width: 100%; height: auto; width: 300px"
           width="300px"
           height="300px"
         />
