@@ -2,7 +2,9 @@
 
 [![Course Image](https://vueschool.io/media/a720e0a048b61c085b010b993989c70d/jamstack-the-complete-guide-non-transparent.jpg)](https://vueschool.io/courses/jamstack-the-complete-guide)
 
-This repository contains the source code for the course: [JAMstack- The Complete Guide](https://vueschool.io/courses/jamstack-the-complete-guide).
+This repository contains the source code for the course: [Jamstack- The Complete Guide](https://vueschool.io/courses/jamstack-the-complete-guide).
+
+---
 
 In the early days of the web, html files served from static servers were the basis of most websites. Today, many websites are generated on demand by powerful backends, as pages are requested. The latter approach has led to many benefits but also led to issues with security, performance, complexity, and cost.
 
